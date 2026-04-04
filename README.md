@@ -1,5 +1,5 @@
 
-# Aether Core — _Robotics Intelligence Platform_
+# Aether Core — _Assured Autonomous Fleet Orchestration Platform_
 
 ## 🧰 Technologies Used in Practice
 
