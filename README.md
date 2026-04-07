@@ -1,5 +1,5 @@
 
-# Aether Core — _Assured Autonomous Fleet Orchestration Platform_
+# Aether Core — _Assured Autonomous Fleet Orchestration & Mission Control System_
 
 ## 🧰 Technologies Used in Practice
 
