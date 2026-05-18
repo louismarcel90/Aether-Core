@@ -22,7 +22,7 @@
 
 
 
-> Every autonomous action is coordinated, constrained, explainable, and mission-assured before execution.
+> Every autonomous action is coordinated, constrained, explainable, and mission-assured before execution
 
 ![node](https://img.shields.io/badge/node-%3E%3D18-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
