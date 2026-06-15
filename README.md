@@ -29,7 +29,7 @@
 ![interface](https://img.shields.io/badge/interface-Web%20App-black)
 ![architecture](https://img.shields.io/badge/architecture-Event--Driven-purple)
 
----
+
 
 ## 🧠 What is Aether Core / Why It Exists
 
