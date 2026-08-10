@@ -20,7 +20,7 @@
   </table>
 </p>
 
-
+---
 
 > Every autonomous action is coordinated, constrained, explainable, and mission-assured before execution.
 
